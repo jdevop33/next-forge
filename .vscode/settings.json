@@ -23,5 +23,6 @@
   "[typescriptreact]": {
     "editor.defaultFormatter": "biomejs.biome"
   },
-  "tailwindCSS.experimental.configFile": "./packages/tailwind-config/config.ts"
+  "tailwindCSS.experimental.configFile": "./packages/tailwind-config/config.ts",
+  "IDX.aI.enableCodebaseIndexing": true
 }
